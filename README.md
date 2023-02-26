@@ -8,7 +8,7 @@ Emoji usage ranking in fediverse servers
 - Target period: 2023/02/23 - 
 - Sampling method: extractive (non-exhaustive)
 
-# Emoji ranking
+# Emoji ranking at misskey.io
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
