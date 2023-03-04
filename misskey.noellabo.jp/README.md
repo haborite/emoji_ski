@@ -12,18 +12,21 @@ Emoji usage ranking in fediverse servers
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|👍|👍|unicode|711|
-|2|<img height="24" src="https://misskey.noellabo.jp/emoji/nekochan.webp">|:nekochan@misskey.io:|custom|64|
-|3|🌅|🌅|unicode|39|
-|4|😥|😥|unicode|27|
-|5|😭|😭|unicode|16|
-|6|<img height="24" src="https://misskey.noellabo.jp/emoji/oltu.webp">|:oltu@misskey.io:|custom|16|
-|7|<img height="24" src="https://misskey.noellabo.jp/emoji/str_tsurai.webp">|:str_tsurai@fedibird.com:|custom|16|
-|8|😸|😸|unicode|16|
-|9|😢|😢|unicode|16|
-|10|<img height="24" src="https://misskey.noellabo.jp/emoji/t_soudane.webp">|:t_soudane@fedibird.com:|custom|16|
-|11|<img height="24" src="https://misskey.noellabo.jp/emoji/pacochi_wakaru_cat.webp">|:pacochi_wakaru_cat:|custom|16|
-|12|<img height="24" src="https://misskey.noellabo.jp/emoji/axtsu.webp">|:axtsu@fedibird.com:|custom|16|
-|13|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobhungry.webp">|:ablobhungry@warpday.net:|custom|16|
-|14|🎉|🎉|unicode|16|
-|15|<img height="24" src="https://misskey.noellabo.jp/emoji/desuyone.webp">|:desuyone@fedibird.com:|custom|8|
+|1|👍|👍|unicode|7695|
+|2|<img height="24" src="https://misskey.noellabo.jp/emoji/nekochan.webp">|:nekochan@misskey.io:|custom|620|
+|3|🌅|🌅|unicode|505|
+|4|😥|😥|unicode|305|
+|5|😸|😸|unicode|155|
+|6|😢|😢|unicode|155|
+|7|<img height="24" src="https://misskey.noellabo.jp/emoji/t_soudane.webp">|:t_soudane@fedibird.com:|custom|155|
+|8|<img height="24" src="https://misskey.noellabo.jp/emoji/pacochi_wakaru_cat.webp">|:pacochi_wakaru_cat:|custom|155|
+|9|<img height="24" src="https://misskey.noellabo.jp/emoji/axtsu.webp">|:axtsu@fedibird.com:|custom|155|
+|10|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobhungry.webp">|:ablobhungry@warpday.net:|custom|155|
+|11|🎉|🎉|unicode|155|
+|12|<img height="24" src="https://misskey.noellabo.jp/emoji/str_tsurai.webp">|:str_tsurai@fedibird.com:|custom|97|
+|13|<img height="24" src="https://misskey.noellabo.jp/emoji/oltu.webp">|:oltu@misskey.io:|custom|65|
+|14|👀|👀|unicode|61|
+|15|<img height="24" src="https://misskey.noellabo.jp/emoji/otsukare.webp">|:otsukare@fedibird.com:|custom|40|
+|16|😭|😭|unicode|37|
+|17|<img height="24" src="https://misskey.noellabo.jp/emoji/koresuki.webp">|:koresuki@fedibird.com:|custom|20|
+|18|<img height="24" src="https://misskey.noellabo.jp/emoji/desuyone.webp">|:desuyone@fedibird.com:|custom|8|
