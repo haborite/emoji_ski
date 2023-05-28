@@ -12,12 +12,12 @@ Emoji usage ranking in fediverse servers
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|❤|❤|unicode|2227|
+|1|❤|❤|unicode|2228|
 |2|🎉|🎉|unicode|1462|
-|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1214|
-|4|👍|👍|unicode|666|
+|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1215|
+|4|👍|👍|unicode|667|
 |5|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|421|
-|6|😇|😇|unicode|365|
+|6|😇|😇|unicode|366|
 |7|😮|😮|unicode|316|
 |8|😆|😆|unicode|304|
 |9|<img height="24" src="https://misskey.cf/emoji/sorena.webp">|:sorena:|custom|291|
