@@ -4,7 +4,7 @@ Emoji usage ranking in fediverse servers
 # Method
 - Target servers: [misskey.noellabo.jp,]
 - Target timeline: local (LTL)
-- LTL crawling interval: about 600 sec (100 notes at once)
+- LTL crawling interval: about 100 sec (100 notes at once)
 - Period: 05/27/2023 00:24:30 - 05/28/2023 03:24:30 
 - Sampling method: non-exhaustive
 

@@ -38,6 +38,7 @@ table_str = text
 
 table_str = table_str.replace("misskey.io", server_name)
 table_str = table_str.replace("2023/02/23 -", f"{dt_start_str} - {dt_end_str}")
+table_str = table_str.replace("600 sec", "100 sec")
 table_str += "|rank|image|signifier|type|frequency score|\n"
 table_str += "|----|----|----|----|----|\n"
 
