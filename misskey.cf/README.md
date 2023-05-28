@@ -14,7 +14,7 @@ Emoji usage ranking in fediverse servers
 |----|----|----|----|----|
 |1|❤|❤|unicode|2228|
 |2|🎉|🎉|unicode|1462|
-|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1215|
+|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1216|
 |4|👍|👍|unicode|667|
 |5|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|421|
 |6|😇|😇|unicode|366|
@@ -24,7 +24,7 @@ Emoji usage ranking in fediverse servers
 |10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|229|
 |11|<img height="24" src="https://misskey.cf/emoji/kawaii_xtu__i.webp">|:kawaii_xtu__i:|custom|222|
 |12|🤔|🤔|unicode|218|
-|13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|205|
+|13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|206|
 |14|💙|💙|unicode|191|
 |15|<img height="24" src="https://misskey.cf/emoji/kawaii.webp">|:kawaii:|custom|191|
 |16|😥|😥|unicode|189|
