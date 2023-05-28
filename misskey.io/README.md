@@ -15,48 +15,48 @@ Emoji usage ranking in fediverse servers
 |1|<img height="24" src="https://misskey.io/emoji/igyo.webp">|:igyo:|custom|93750|
 |2|<img height="24" src="https://misskey.io/emoji/ohayoo.webp">|:ohayoo:|custom|71821|
 |3|<img height="24" src="https://misskey.io/emoji/ohayougozaimasu.webp">|:ohayougozaimasu:|custom|38463|
-|4|<img height="24" src="https://misskey.io/emoji/oyasumisskey.webp">|:oyasumisskey:|custom|36531|
+|4|<img height="24" src="https://misskey.io/emoji/oyasumisskey.webp">|:oyasumisskey:|custom|36563|
 |5|<img height="24" src="https://misskey.io/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|26530|
 |6|👍|👍|unicode|23712|
 |7|<img height="24" src="https://misskey.io/emoji/wakaru.webp">|:wakaru:|custom|23546|
 |8|<img height="24" src="https://misskey.io/emoji/is_all_scam.webp">|:is_all_scam:|custom|22518|
-|9|<img height="24" src="https://misskey.io/emoji/youkoso.webp">|:youkoso:|custom|18085|
-|10|<img height="24" src="https://misskey.io/emoji/kawaiii.webp">|:kawaiii:|custom|16826|
+|9|<img height="24" src="https://misskey.io/emoji/youkoso.webp">|:youkoso:|custom|18087|
+|10|<img height="24" src="https://misskey.io/emoji/kawaiii.webp">|:kawaiii:|custom|16828|
 |11|<img height="24" src="https://misskey.io/emoji/super_igyo.webp">|:super_igyo:|custom|16626|
 |12|<img height="24" src="https://misskey.io/emoji/tiken.webp">|:tiken:|custom|13562|
 |13|<img height="24" src="https://misskey.io/emoji/watakushidattesoudesuwa.webp">|:watakushidattesoudesuwa:|custom|12925|
 |14|<img height="24" src="https://misskey.io/emoji/wakarimi.webp">|:wakarimi:|custom|12783|
 |15|<img height="24" src="https://misskey.io/emoji/send_money.webp">|:send_money:|custom|12759|
-|16|❤|❤|unicode|12700|
-|17|<img height="24" src="https://misskey.io/emoji/nyanpuppu.webp">|:nyanpuppu:|custom|12470|
+|16|❤|❤|unicode|12701|
+|17|<img height="24" src="https://misskey.io/emoji/nyanpuppu.webp">|:nyanpuppu:|custom|12472|
 |18|⭕|⭕|unicode|11703|
 |19|<img height="24" src="https://misskey.io/emoji/yattare.webp">|:yattare:|custom|11615|
 |20|<img height="24" src="https://misskey.io/emoji/kowaihanashi.webp">|:kowaihanashi:|custom|11131|
 |21|<img height="24" src="https://misskey.io/emoji/ablobgoodnightreverse.webp">|:ablobgoodnightreverse:|custom|10144|
 |22|<img height="24" src="https://misskey.io/emoji/soukamo.webp">|:soukamo:|custom|8816|
 |23|<img height="24" src="https://misskey.io/emoji/ohayou.webp">|:ohayou:|custom|8700|
-|24|<img height="24" src="https://misskey.io/emoji/kawaii2.webp">|:kawaii2:|custom|8143|
-|25|<img height="24" src="https://misskey.io/emoji/blobhai.webp">|:blobhai:|custom|8079|
+|24|<img height="24" src="https://misskey.io/emoji/kawaii2.webp">|:kawaii2:|custom|8153|
+|25|<img height="24" src="https://misskey.io/emoji/blobhai.webp">|:blobhai:|custom|8080|
 |26|<img height="24" src="https://misskey.io/emoji/petthex_blobcatmeltcry.webp">|:petthex_blobcatmeltcry:|custom|8056|
 |27|<img height="24" src="https://misskey.io/emoji/soudasouda.webp">|:soudasouda:|custom|7499|
-|28|<img height="24" src="https://misskey.io/emoji/ohuton_kakete_agemasyoune.webp">|:ohuton_kakete_agemasyoune:|custom|7443|
+|28|<img height="24" src="https://misskey.io/emoji/ohuton_kakete_agemasyoune.webp">|:ohuton_kakete_agemasyoune:|custom|7446|
 |29|<img height="24" src="https://misskey.io/emoji/kusa.webp">|:kusa:|custom|6908|
 |30|<img height="24" src="https://misskey.io/emoji/sore.webp">|:sore:|custom|6844|
-|31|<img height="24" src="https://misskey.io/emoji/resonyance.webp">|:resonyance:|custom|6751|
+|31|<img height="24" src="https://misskey.io/emoji/resonyance.webp">|:resonyance:|custom|6752|
 |32|<img height="24" src="https://misskey.io/emoji/kawaiine.webp">|:kawaiine:|custom|6517|
 |33|<img height="24" src="https://misskey.io/emoji/iizo.webp">|:iizo:|custom|6373|
-|34|<img height="24" src="https://misskey.io/emoji/ganbare.webp">|:ganbare:|custom|6083|
+|34|<img height="24" src="https://misskey.io/emoji/ganbare.webp">|:ganbare:|custom|6086|
 |35|<img height="24" src="https://misskey.io/emoji/erait.webp">|:erait:|custom|5980|
-|36|<img height="24" src="https://misskey.io/emoji/saikou.webp">|:saikou:|custom|5890|
+|36|<img height="24" src="https://misskey.io/emoji/saikou.webp">|:saikou:|custom|5891|
 |37|<img height="24" src="https://misskey.io/emoji/blobcozynap.webp">|:blobcozynap:|custom|5572|
 |38|🎉|🎉|unicode|5303|
 |39|<img height="24" src="https://misskey.io/emoji/uwa_xtu.webp">|:uwa_xtu:|custom|5287|
 |40|<img height="24" src="https://misskey.io/emoji/blobcatdroolreach.webp">|:blobcatdroolreach:|custom|5187|
 |41|<img height="24" src="https://misskey.io/emoji/otukaresama.webp">|:otukaresama:|custom|5186|
-|42|<img height="24" src="https://misskey.io/emoji/sorehasou.webp">|:sorehasou:|custom|5129|
+|42|<img height="24" src="https://misskey.io/emoji/sorehasou.webp">|:sorehasou:|custom|5133|
 |43|<img height="24" src="https://misskey.io/emoji/aliexpress_mistranslation.webp">|:aliexpress_mistranslation:|custom|5117|
 |44|<img height="24" src="https://misskey.io/emoji/ablobcall.webp">|:ablobcall:|custom|5022|
-|45|<img height="24" src="https://misskey.io/emoji/umasou.webp">|:umasou:|custom|5017|
+|45|<img height="24" src="https://misskey.io/emoji/umasou.webp">|:umasou:|custom|5022|
 |46|<img height="24" src="https://misskey.io/emoji/odaijini.webp">|:odaijini:|custom|4980|
 |47|<img height="24" src="https://misskey.io/emoji/ohayo.webp">|:ohayo:|custom|4731|
 |48|<img height="24" src="https://misskey.io/emoji/a.webp">|:a:|custom|4713|
@@ -69,14 +69,14 @@ Emoji usage ranking in fediverse servers
 |55|<img height="24" src="https://misskey.io/emoji/supertada.webp">|:supertada:|custom|4309|
 |56|<img height="24" src="https://misskey.io/emoji/sugoi.webp">|:sugoi:|custom|3939|
 |57|<img height="24" src="https://misskey.io/emoji/iine.webp">|:iine:|custom|3914|
-|58|<img height="24" src="https://misskey.io/emoji/wakarimiga_fukasugiru.webp">|:wakarimiga_fukasugiru:|custom|3839|
+|58|<img height="24" src="https://misskey.io/emoji/wakarimiga_fukasugiru.webp">|:wakarimiga_fukasugiru:|custom|3840|
 |59|<img height="24" src="https://misskey.io/emoji/petthex_japanesecake.webp">|:petthex_japanesecake:|custom|3793|
 |60|<img height="24" src="https://misskey.io/emoji/iihanashi.webp">|:iihanashi:|custom|3754|
 |61|<img height="24" src="https://misskey.io/emoji/misuhai.webp">|:misuhai:|custom|3713|
 |62|<img height="24" src="https://misskey.io/emoji/bed_oide.webp">|:bed_oide:|custom|3700|
 |63|<img height="24" src="https://misskey.io/emoji/souiuhimoaru.webp">|:souiuhimoaru:|custom|3685|
 |64|<img height="24" src="https://misskey.io/emoji/petthex.webp">|:petthex:|custom|3667|
-|65|<img height="24" src="https://misskey.io/emoji/aruaru.webp">|:aruaru:|custom|3653|
+|65|<img height="24" src="https://misskey.io/emoji/aruaru.webp">|:aruaru:|custom|3659|
 |66|<img height="24" src="https://misskey.io/emoji/honshitsu_jouhou.webp">|:honshitsu_jouhou:|custom|3601|
 |67|<img height="24" src="https://misskey.io/emoji/reaction_shooting.webp">|:reaction_shooting:|custom|3504|
 |68|<img height="24" src="https://misskey.io/emoji/kuttare.webp">|:kuttare:|custom|3270|
@@ -84,7 +84,7 @@ Emoji usage ranking in fediverse servers
 |70|<img height="24" src="https://misskey.io/emoji/murishinaide.webp">|:murishinaide:|custom|3091|
 |71|<img height="24" src="https://misskey.io/emoji/petthex_blobcat_frustration.webp">|:petthex_blobcat_frustration:|custom|3065|
 |72|<img height="24" src="https://misskey.io/emoji/yosano_akiko_is_always_watching_you.webp">|:yosano_akiko_is_always_watching_you:|custom|3061|
-|73|<img height="24" src="https://misskey.io/emoji/ai_yay.webp">|:ai_yay:|custom|2914|
+|73|<img height="24" src="https://misskey.io/emoji/ai_yay.webp">|:ai_yay:|custom|2915|
 |74|<img height="24" src="https://misskey.io/emoji/hai.webp">|:hai:|custom|2842|
 |75|<img height="24" src="https://misskey.io/emoji/kamo.webp">|:kamo:|custom|2835|
 |76|<img height="24" src="https://misskey.io/emoji/ittare.webp">|:ittare:|custom|2823|
@@ -94,7 +94,7 @@ Emoji usage ranking in fediverse servers
 |80|<img height="24" src="https://misskey.io/emoji/doecchi.webp">|:doecchi:|custom|2796|
 |81|<img height="24" src="https://misskey.io/emoji/souiutokimoaru.webp">|:souiutokimoaru:|custom|2749|
 |82|🤔|🤔|unicode|2720|
-|83|<img height="24" src="https://misskey.io/emoji/kanasiihanasi.webp">|:kanasiihanasi:|custom|2691|
+|83|<img height="24" src="https://misskey.io/emoji/kanasiihanasi.webp">|:kanasiihanasi:|custom|2693|
 |84|<img height="24" src="https://misskey.io/emoji/oremoonajikimochi.webp">|:oremoonajikimochi:|custom|2674|
 |85|<img height="24" src="https://misskey.io/emoji/erojan.webp">|:erojan:|custom|2650|
 |86|<img height="24" src="https://misskey.io/emoji/petthex_yosano_akiko.webp">|:petthex_yosano_akiko:|custom|2635|
@@ -106,12 +106,12 @@ Emoji usage ranking in fediverse servers
 |92|<img height="24" src="https://misskey.io/emoji/okaeri.webp">|:okaeri:|custom|2389|
 |93|<img height="24" src="https://misskey.io/emoji/opera.webp">|:opera:|custom|2360|
 |94|<img height="24" src="https://misskey.io/emoji/galtu.webp">|:galtu:|custom|2351|
-|95|😮|😮|unicode|2281|
+|95|😮|😮|unicode|2283|
 |96|<img height="24" src="https://misskey.io/emoji/blobcatrainbow.webp">|:blobcatrainbow:|custom|2259|
-|97|<img height="24" src="https://misskey.io/emoji/ne.webp">|:ne:|custom|2223|
+|97|<img height="24" src="https://misskey.io/emoji/ne.webp">|:ne:|custom|2224|
 |98|<img height="24" src="https://misskey.io/emoji/ablobcatnodmeltcry.webp">|:ablobcatnodmeltcry:|custom|2211|
 |99|<img height="24" src="https://misskey.io/emoji/tsuyoi.webp">|:tsuyoi:|custom|2130|
-|100|<img height="24" src="https://misskey.io/emoji/ablobhungry.webp">|:ablobhungry:|custom|2119|
+|100|<img height="24" src="https://misskey.io/emoji/ablobhungry.webp">|:ablobhungry:|custom|2120|
 |101|<img height="24" src="https://misskey.io/emoji/emergency.webp">|:emergency:|custom|2112|
 |102|<img height="24" src="https://misskey.io/emoji/suteki2.webp">|:suteki2:|custom|2092|
 |103|<img height="24" src="https://misskey.io/emoji/mog.webp">|:mog:|custom|2091|
@@ -129,7 +129,7 @@ Emoji usage ranking in fediverse servers
 |115|<img height="24" src="https://misskey.io/emoji/anataima_chinkotte_iimashitane.webp">|:anataima_chinkotte_iimashitane:|custom|1774|
 |116|<img height="24" src="https://misskey.io/emoji/blobcat_frustration.webp">|:blobcat_frustration:|custom|1766|
 |117|<img height="24" src="https://misskey.io/emoji/kaibunsyo_itadakimasita.webp">|:kaibunsyo_itadakimasita:|custom|1747|
-|118|<img height="24" src="https://misskey.io/emoji/honmaka.webp">|:honmaka:|custom|1722|
+|118|<img height="24" src="https://misskey.io/emoji/honmaka.webp">|:honmaka:|custom|1726|
 |119|<img height="24" src="https://misskey.io/emoji/ablobcatcryingcute.webp">|:ablobcatcryingcute:|custom|1722|
 |120|<img height="24" src="https://misskey.io/emoji/jisseki_kaijyo.webp">|:jisseki_kaijyo:|custom|1705|
 |121|<img height="24" src="https://misskey.io/emoji/sounano.webp">|:sounano:|custom|1649|
@@ -149,7 +149,7 @@ Emoji usage ranking in fediverse servers
 |135|<img height="24" src="https://misskey.io/emoji/kanneiyahataseitetsusyo.webp">|:kanneiyahataseitetsusyo:|custom|1500|
 |136|<img height="24" src="https://misskey.io/emoji/kami.webp">|:kami:|custom|1500|
 |137|😆|😆|unicode|1496|
-|138|<img height="24" src="https://misskey.io/emoji/guwaa_meshi_terro_ja.webp">|:guwaa_meshi_terro_ja:|custom|1476|
+|138|<img height="24" src="https://misskey.io/emoji/guwaa_meshi_terro_ja.webp">|:guwaa_meshi_terro_ja:|custom|1478|
 |139|<img height="24" src="https://misskey.io/emoji/blobcataww.webp">|:blobcataww:|custom|1469|
 |140|<img height="24" src="https://misskey.io/emoji/blobcatsweatflips.webp">|:blobcatsweatflips:|custom|1465|
 |141|<img height="24" src="https://misskey.io/emoji/iiyo.webp">|:iiyo:|custom|1461|
