@@ -24,7 +24,7 @@ Emoji usage ranking in fediverse servers
 |10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|229|
 |11|<img height="24" src="https://misskey.cf/emoji/kawaii_xtu__i.webp">|:kawaii_xtu__i:|custom|222|
 |12|🤔|🤔|unicode|218|
-|13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|204|
+|13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|205|
 |14|💙|💙|unicode|191|
 |15|<img height="24" src="https://misskey.cf/emoji/kawaii.webp">|:kawaii:|custom|191|
 |16|😥|😥|unicode|189|
