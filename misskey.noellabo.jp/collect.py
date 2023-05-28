@@ -32,7 +32,7 @@ with open(csvname, "a+") as f:
 # Load initial measurement time
 time_fname = "current_time"
 with open(time_fname, "r") as f:
-    epoch_sec = int(f.read().splitlines()[0])
+    epoch_msec = int(f.read().splitlines()[0])
 
 # Prepare note id storages
 previous_note_ids = []
@@ -45,12 +45,13 @@ while True:
     current_note_ids = []
 
     # Request notes in the local timeline
+    print(epoch_msec)
     res_loc = requests.post(
             endpoint_local, 
             json={
                 "i": token,
                 "userId": userId,
-                "sinceDate": epoch_sec,
+                "sinceDate": epoch_msec,
                 "limit": batch_size
             }
     )
@@ -72,14 +73,17 @@ while True:
         # Check note duplication
         if note_id in previous_note_ids:
             print(f"Got Existing ID {i + 1}: {note_id}")
-            time.sleep(note_interval)
             continue
         print(f"Got NEW ID {i + 1}: {note_id}")
 
         # Request reactions on a note  
         res_rxn = requests.post(
             endpoint_rxn,
-            json={"noteId": note_id}
+            json={
+                "i": token,
+                "userId": userId,
+                "noteId": note_id
+            }
         )
         
         # Check response normality
@@ -115,8 +119,8 @@ while True:
     time.sleep(batch_interval)
 
     # Set measurement time
-    epoch_sec = epoch_sec - 3600
+    epoch_msec = epoch_msec - 3000000
     with open(time_fname, "w") as f:
-        f.write(str(epoch_sec))
-    meas_time = datetime.fromtimestamp(epoch_sec)
+        f.write(str(epoch_msec))
+    meas_time = datetime.fromtimestamp(epoch_msec / 1000)
     print("Measurement time: " + meas_time.strftime("%m/%d/%Y, %H:%M:%S"))

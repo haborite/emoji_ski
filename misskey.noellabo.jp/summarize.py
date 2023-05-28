@@ -20,13 +20,13 @@ emojis = [line.split(",") for line in lines]
 
 with open(f"current_time", "r") as f:
     lines = f.read().splitlines()
-ts_start = int(lines[0])
+ts_start = int(int(lines[0]) / 1000)
 dt_start = datetime.fromtimestamp(ts_start)
 dt_start_str = dt_start.strftime("%m/%d/%Y %H:%M:%S")
 
 with open(f"start_time", "r") as f:
     lines = f.read().splitlines()
-ts_end = int(lines[0])
+ts_end = int(int(lines[0]) / 1000)
 dt_end = datetime.fromtimestamp(ts_end)
 dt_end_str = dt_end.strftime("%m/%d/%Y %H:%M:%S")
 
