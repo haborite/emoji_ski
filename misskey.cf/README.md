@@ -12,7 +12,7 @@ Emoji usage ranking in fediverse servers
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|❤|❤|unicode|2224|
+|1|❤|❤|unicode|2225|
 |2|🎉|🎉|unicode|1460|
 |3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1207|
 |4|👍|👍|unicode|660|
@@ -21,9 +21,9 @@ Emoji usage ranking in fediverse servers
 |7|😮|😮|unicode|315|
 |8|😆|😆|unicode|304|
 |9|<img height="24" src="https://misskey.cf/emoji/sorena.webp">|:sorena:|custom|291|
-|10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|228|
+|10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|229|
 |11|<img height="24" src="https://misskey.cf/emoji/kawaii_xtu__i.webp">|:kawaii_xtu__i:|custom|222|
-|12|🤔|🤔|unicode|217|
+|12|🤔|🤔|unicode|218|
 |13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|194|
 |14|💙|💙|unicode|191|
 |15|<img height="24" src="https://misskey.cf/emoji/kawaii.webp">|:kawaii:|custom|191|
@@ -168,19 +168,19 @@ Emoji usage ranking in fediverse servers
 |154|👀|👀|unicode|13|
 |155|<img height="24" src="https://misskey.cf/emoji/sonna_banana.webp">|:sonna_banana:|custom|13|
 |156|<img height="24" src="https://misskey.cf/emoji/wakaranakumonai.webp">|:wakaranakumonai:|custom|13|
-|157|<img height="24" src="https://misskey.cf/emoji/gomennasai.webp">|:gomennasai:|custom|12|
-|158|<img height="24" src="https://misskey.cf/emoji/meowyey.webp">|:meowyey:|custom|12|
-|159|<img height="24" src="https://misskey.cf/emoji/saikou_sugiru.webp">|:saikou_sugiru:|custom|12|
-|160|<img height="24" src="https://misskey.cf/emoji/blobeyes.webp">|:blobeyes:|custom|12|
-|161|<img height="24" src="https://misskey.cf/emoji/yosano_akiko.webp">|:yosano_akiko:|custom|12|
-|162|🍘|🍘|unicode|12|
-|163|👋|👋|unicode|12|
-|164|<img height="24" src="https://misskey.cf/emoji/taishitamonodesune.webp">|:taishitamonodesune:|custom|12|
-|165|<img height="24" src="https://misskey.cf/emoji/blobchain.webp">|:blobchain:|custom|12|
-|166|<img height="24" src="https://misskey.cf/emoji/mochiron.webp">|:mochiron:|custom|12|
-|167|<img height="24" src="https://misskey.cf/emoji/eyes_fidgeting.webp">|:eyes_fidgeting:|custom|12|
-|168|<img height="24" src="https://misskey.cf/emoji/ablobcatattentionreverse.webp">|:ablobcatattentionreverse:|custom|12|
-|169|<img height="24" src="https://misskey.cf/emoji/majikayo.webp">|:majikayo:|custom|12|
+|157|<img height="24" src="https://misskey.cf/emoji/majikayo.webp">|:majikayo:|custom|13|
+|158|<img height="24" src="https://misskey.cf/emoji/gomennasai.webp">|:gomennasai:|custom|12|
+|159|<img height="24" src="https://misskey.cf/emoji/meowyey.webp">|:meowyey:|custom|12|
+|160|<img height="24" src="https://misskey.cf/emoji/saikou_sugiru.webp">|:saikou_sugiru:|custom|12|
+|161|<img height="24" src="https://misskey.cf/emoji/blobeyes.webp">|:blobeyes:|custom|12|
+|162|<img height="24" src="https://misskey.cf/emoji/yosano_akiko.webp">|:yosano_akiko:|custom|12|
+|163|🍘|🍘|unicode|12|
+|164|👋|👋|unicode|12|
+|165|<img height="24" src="https://misskey.cf/emoji/taishitamonodesune.webp">|:taishitamonodesune:|custom|12|
+|166|<img height="24" src="https://misskey.cf/emoji/blobchain.webp">|:blobchain:|custom|12|
+|167|<img height="24" src="https://misskey.cf/emoji/mochiron.webp">|:mochiron:|custom|12|
+|168|<img height="24" src="https://misskey.cf/emoji/eyes_fidgeting.webp">|:eyes_fidgeting:|custom|12|
+|169|<img height="24" src="https://misskey.cf/emoji/ablobcatattentionreverse.webp">|:ablobcatattentionreverse:|custom|12|
 |170|🍬|🍬|unicode|11|
 |171|✨|✨|unicode|11|
 |172|<img height="24" src="https://misskey.cf/emoji/blobtoofast.webp">|:blobtoofast:|custom|11|
