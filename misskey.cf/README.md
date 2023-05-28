@@ -65,14 +65,14 @@ Emoji usage ranking in fediverse servers
 |51|<img height="24" src="https://misskey.cf/emoji/murisezu.webp">|:murisezu:|custom|56|
 |52|<img height="24" src="https://misskey.cf/emoji/blob3c.webp">|:blob3c:|custom|54|
 |53|<img height="24" src="https://misskey.cf/emoji/totemokawaii.webp">|:totemokawaii:|custom|52|
-|54|<img height="24" src="https://misskey.cf/emoji/ablobhyperwubbel.webp">|:ablobhyperwubbel:|custom|52|
-|55|⭕|⭕|unicode|51|
+|54|⭕|⭕|unicode|52|
+|55|<img height="24" src="https://misskey.cf/emoji/ablobhyperwubbel.webp">|:ablobhyperwubbel:|custom|52|
 |56|<img height="24" src="https://misskey.cf/emoji/rekishininokoru_daiigyo.webp">|:rekishininokoru_daiigyo:|custom|47|
 |57|<img height="24" src="https://misskey.cf/emoji/soudane.webp">|:soudane:|custom|46|
 |58|<img height="24" src="https://misskey.cf/emoji/mettya_wakaru.webp">|:mettya_wakaru:|custom|45|
 |59|<img height="24" src="https://misskey.cf/emoji/totemo_kawaii.webp">|:totemo_kawaii:|custom|45|
-|60|🫶|🫶|unicode|45|
-|61|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo@misskey.io:|custom|44|
+|60|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo@misskey.io:|custom|45|
+|61|🫶|🫶|unicode|45|
 |62|<img height="24" src="https://misskey.cf/emoji/ablobmeltsoblove.webp">|:ablobmeltsoblove:|custom|44|
 |63|<img height="24" src="https://misskey.cf/emoji/watashi.webp">|:watashi:|custom|43|
 |64|<img height="24" src="https://misskey.cf/emoji/ablobcathyper.webp">|:ablobcathyper:|custom|41|
