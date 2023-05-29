@@ -22,7 +22,7 @@ Emoji usage ranking in a fediverse server
 |7|😆|😆|unicode|320|
 |8|😮|😮|unicode|316|
 |9|<img height="24" src="https://misskey.cf/emoji/sorena.webp">|:sorena:|custom|297|
-|10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|244|
+|10|<img height="24" src="https://misskey.cf/emoji/blob_hyper_nod.webp">|:blob_hyper_nod:|custom|247|
 |11|<img height="24" src="https://misskey.cf/emoji/kawaii_xtu__i.webp">|:kawaii_xtu__i:|custom|224|
 |12|🤔|🤔|unicode|223|
 |13|<img height="24" src="https://misskey.cf/emoji/oyasumi.webp">|:oyasumi:|custom|206|
@@ -31,13 +31,13 @@ Emoji usage ranking in a fediverse server
 |16|😥|😥|unicode|189|
 |17|<img height="24" src="https://misskey.cf/emoji/gannbare.webp">|:gannbare:|custom|141|
 |18|<img height="24" src="https://misskey.cf/emoji/ultrafastparrot.webp">|:ultrafastparrot:|custom|133|
-|19|<img height="24" src="https://misskey.cf/emoji/kusa.webp">|:kusa:|custom|132|
+|19|<img height="24" src="https://misskey.cf/emoji/kusa.webp">|:kusa:|custom|133|
 |20|<img height="24" src="https://misskey.cf/emoji/sorena_orange.webp">|:sorena_orange:|custom|124|
 |21|<img height="24" src="https://misskey.cf/emoji/supertada.webp">|:supertada:|custom|122|
 |22|<img height="24" src="https://misskey.cf/emoji/iine.webp">|:iine:|custom|119|
 |23|<img height="24" src="https://misskey.cf/emoji/wakaru.webp">|:wakaru:|custom|118|
 |24|🥺|🥺|unicode|107|
-|25|<img height="24" src="https://misskey.cf/emoji/e.webp">|:e:|custom|105|
+|25|<img height="24" src="https://misskey.cf/emoji/e.webp">|:e:|custom|106|
 |26|<img height="24" src="https://misskey.cf/emoji/kawaii2.webp">|:kawaii2:|custom|104|
 |27|🧂|🧂|unicode|103|
 |28|<img height="24" src="https://misskey.cf/emoji/chotto_wakaru.webp">|:chotto_wakaru:|custom|94|
@@ -65,7 +65,7 @@ Emoji usage ranking in a fediverse server
 |50|<img height="24" src="https://misskey.cf/emoji/sugee.webp">|:sugee:|custom|60|
 |51|⭕|⭕|unicode|60|
 |52|<img height="24" src="https://misskey.cf/emoji/murisezu.webp">|:murisezu:|custom|57|
-|53|<img height="24" src="https://misskey.cf/emoji/blob3c.webp">|:blob3c:|custom|56|
+|53|<img height="24" src="https://misskey.cf/emoji/blob3c.webp">|:blob3c:|custom|57|
 |54|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo@misskey.io:|custom|56|
 |55|<img height="24" src="https://misskey.cf/emoji/mettya_wakaru.webp">|:mettya_wakaru:|custom|55|
 |56|<img height="24" src="https://misskey.cf/emoji/ablobhyperwubbel.webp">|:ablobhyperwubbel:|custom|53|

@@ -76,6 +76,7 @@ while True:
         # Check note duplication
         if note_id in previous_note_ids:
             print(f"Got Existing ID {i + 1}: {note_id}")
+            time.sleep(note_interval)
             continue
         print(f"Got NEW ID {i + 1}: {note_id}")
 
