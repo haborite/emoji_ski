@@ -6,7 +6,7 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 606 sec (100 notes at once)
 - Note info reading interval: > 6 sec
-- Period: 05/27/2023 00:00:00 - 05/29/2023 12:57:48 
+- Period: 05/27/2023 00:00:00 - 05/29/2023 13:08:03 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at misskey.cf
@@ -15,7 +15,7 @@ Emoji usage ranking in a fediverse server
 |----|----|----|----|----|
 |1|❤|❤|unicode|2262|
 |2|🎉|🎉|unicode|1481|
-|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1296|
+|3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1298|
 |4|👍|👍|unicode|679|
 |5|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|458|
 |6|😇|😇|unicode|374|
@@ -35,7 +35,7 @@ Emoji usage ranking in a fediverse server
 |20|<img height="24" src="https://misskey.cf/emoji/sorena_orange.webp">|:sorena_orange:|custom|124|
 |21|<img height="24" src="https://misskey.cf/emoji/supertada.webp">|:supertada:|custom|122|
 |22|<img height="24" src="https://misskey.cf/emoji/iine.webp">|:iine:|custom|121|
-|23|<img height="24" src="https://misskey.cf/emoji/wakaru.webp">|:wakaru:|custom|118|
+|23|<img height="24" src="https://misskey.cf/emoji/wakaru.webp">|:wakaru:|custom|119|
 |24|<img height="24" src="https://misskey.cf/emoji/e.webp">|:e:|custom|109|
 |25|🥺|🥺|unicode|108|
 |26|<img height="24" src="https://misskey.cf/emoji/kawaii2.webp">|:kawaii2:|custom|104|
