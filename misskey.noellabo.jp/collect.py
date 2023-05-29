@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 
 # Load config
 CONFIG_FNAME = 'server.cfg'
+TIME_FNAME = "current_time"
 config = configparser.ConfigParser()
 config.read(CONFIG_FNAME)
 config_d = config["DEFAULT"]
@@ -28,11 +29,6 @@ with open(csvname, "a+") as f:
     for line in lines:
         rxn_type, count = line.split(",")
         rxn_counts[rxn_type] = int(count)
-
-# Load initial measurement time
-time_fname = "current_time"
-# with open(time_fname, "r") as f:
-#     epoch_msec = int(f.read().splitlines()[0])
 
 # Prepare note id storages
 previous_note_ids = []
@@ -115,21 +111,22 @@ while True:
         time.sleep(note_interval)
 
     # Sort and save
-    reacitons = sorted(rxn_counts.items(), key=lambda x : x[1], reverse=True)
+    reacitons = sorted(
+        rxn_counts.items(), 
+        key=lambda x : x[1], 
+        reverse=True
+    )
     with open(csvname, "w") as f:
         for rxn_type, count in reacitons:
             f.write(f"{rxn_type},{count}\n")
 
-    # Set measurement time
-    # epoch_msec = epoch_msec - 3000000
-    with open(time_fname, "w") as f:
+    # Save current time
+    with open(TIME_FNAME, "w") as f:
         f.write(str(epoch_msec))
-    # meas_time = datetime.fromtimestamp(epoch_msec / 1000)
-    # print("Measurement time: " + meas_time.strftime("%m/%d/%Y, %H:%M:%S"))
-    
-    finish_time = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
-    print(f"Batch finished at {finish_time}") 
     
     # Wait for the next batch
+    finish_time = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+    print(f"Batch finished at {finish_time}") 
     batch_interval = int(config_d["BatchInterval"])
     time.sleep(batch_interval)
+    

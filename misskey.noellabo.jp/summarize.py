@@ -1,46 +1,60 @@
 #! /usr/bin/env python3
-import re
-from os import path
+import re, configparser
 from datetime import datetime
 
-# URLs to be reffered not from the target server
-ext_urls = {}
-
-# basic
-script_path = path.abspath(__file__)
-server_name = path.basename(path.dirname(script_path))
-pattern = r':(.*)@'
-p2 = r'@(.*):'
+# Load config
+config = configparser.ConfigParser()
+config.read('server.cfg')
+config_d = config["DEFAULT"]
+server_name = config_d["ServerName"]
+batch_interval = int(config_d["BatchInterval"])
+note_interval = int(config_d["NoteInterval"])
+batch_size = int(config_d["BatchSize"])
 baseurl = f"https://{server_name}/emoji/"
 
-# open file
+# Prepare patterns
+pattern = r':(.*)@'
+p2 = r'@(.*):'
+
+# Open data
 with open(f"{server_name}.csv", "r") as f:
     lines = f.read().splitlines()
 emojis = [line.split(",") for line in lines]
 
-with open(f"start_time", "r") as f:
+# Read start time
+with open("start_time", "r") as f:
     lines = f.read().splitlines()
 ts_start = int(int(lines[0]) / 1000)
 dt_start = datetime.fromtimestamp(ts_start)
 dt_start_str = dt_start.strftime("%m/%d/%Y %H:%M:%S")
 
-with open(f"current_time", "r") as f:
+# Read end time
+with open("current_time", "r") as f:
     lines = f.read().splitlines()
 ts_end = int(int(lines[0]) / 1000)
 dt_end = datetime.fromtimestamp(ts_end)
 dt_end_str = dt_end.strftime("%m/%d/%Y %H:%M:%S")
 
-# md str
+# Read md template
 with open("../template/README.md", "r") as f:
-    text = f.read()
+    table_str = f.read()
 
-table_str = text
+# Replace words
+table_str = table_str.replace(r"{{SERVER_NAME}}", server_name)
+table_str = table_str.replace(r"{{START_TIME}}", dt_start_str)
+table_str = table_str.replace(r"{{END_TIME}}", dt_end_str)
+table_str = table_str.replace(r"{{BATCH_SIZE}}", str(batch_size))
+table_str = table_str.replace(r"{{NOTE_REQ_INTERVAL}}", str(note_interval))
+table_str = table_str.replace(
+    r"{{TL_REQ_INTERVAL}}",
+    str(batch_interval + note_interval * batch_size)
+)
 
-table_str = table_str.replace("misskey.io", server_name)
-table_str = table_str.replace("2023/02/23 -", f"{dt_start_str} - {dt_end_str}")
+# Create the table headers
 table_str += "|rank|image|signifier|type|frequency score|\n"
 table_str += "|----|----|----|----|----|\n"
 
+# Create the ranking table
 rank_no = min(len(emojis), 100)
 for i in range(rank_no):
     emoji = emojis[i]
@@ -55,8 +69,6 @@ for i in range(rank_no):
             signifier = signifier.replace(domain, "")
             signifier = signifier.replace("@", "")
         url_str = f"{baseurl}{emoji_name}.webp"
-        if signifier in ext_urls:
-            url_str = ext_urls[signifier]
         raw_str = f'|{rank}|<img height="24" src="{url_str}">|{signifier}|{emoji_type}|{point}|\n'
     else:
         emoji_type = "unicode"

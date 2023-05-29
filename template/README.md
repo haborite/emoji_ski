@@ -1,12 +1,13 @@
 # About
-Emoji usage ranking in fediverse servers
+Emoji usage ranking in a fediverse server
 
 # Method
-- Target servers: [misskey.io,]
+- Target server: {{SERVER_NAME}}
 - Target timeline: local (LTL)
-- LTL crawling interval: about 600 sec (100 notes at once)
-- Period: 2023/02/23 - 
+- LTL sampling interval: about {{TL_REQ_INTERVAL}} sec ({{BATCH_SIZE}} notes at once)
+- Note info reading interval: about {{NOTE_REQ_INTERVAL}} sec
+- Period: {{START_TIME}} - {{END_TIME}} 
 - Sampling method: non-exhaustive
 
-# Emoji ranking at misskey.io
+# Emoji ranking at {{SERVER_NAME}}
 
