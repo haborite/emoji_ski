@@ -5,7 +5,7 @@ Emoji usage ranking in fediverse servers
 - Target servers: [misskey.noellabo.jp,]
 - Target timeline: local (LTL)
 - LTL crawling interval: about 100 sec (100 notes at once)
-- Period: 01/03/2023 04:10:00 - 05/28/2023 03:20:00 
+- Period: 01/01/2023 08:00:00 - 05/28/2023 03:20:00 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at misskey.noellabo.jp
@@ -15,11 +15,11 @@ Emoji usage ranking in fediverse servers
 |1|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_igyo.webp">|:noeskeychan_igyo:|custom|3056|
 |2|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_ohayo.webp">|:noeskeychan_ohayo:|custom|2857|
 |3|<img height="24" src="https://misskey.noellabo.jp/emoji/kawaii.webp">|:kawaii:|custom|1483|
-|4|<img height="24" src="https://misskey.noellabo.jp/emoji/kusa.webp">|:kusa:|custom|1406|
+|4|<img height="24" src="https://misskey.noellabo.jp/emoji/kusa.webp">|:kusa:|custom|1410|
 |5|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_oyasumi.webp">|:noeskeychan_oyasumi:|custom|1164|
 |6|🎉|🎉|unicode|996|
 |7|<img height="24" src="https://misskey.noellabo.jp/emoji/ohayougozaimasu.webp">|:ohayougozaimasu:|custom|974|
-|8|<img height="24" src="https://misskey.noellabo.jp/emoji/very_sad.webp">|:very_sad:|custom|937|
+|8|<img height="24" src="https://misskey.noellabo.jp/emoji/very_sad.webp">|:very_sad:|custom|942|
 |9|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_pat.webp">|:noeskeychan_pat:|custom|933|
 |10|<img height="24" src="https://misskey.noellabo.jp/emoji/ne.webp">|:ne:|custom|931|
 |11|<img height="24" src="https://misskey.noellabo.jp/emoji/uwa_xtu.webp">|:uwa_xtu:|custom|890|
