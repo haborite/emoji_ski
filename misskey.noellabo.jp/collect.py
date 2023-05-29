@@ -126,7 +126,7 @@ while True:
         f.write(str(epoch_msec))
     
     # Wait for the next batch
-    finish_time = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+    finish_time = datetime.now().strftime("%Y/%m/%d, %H:%M:%S")
     print(f"Batch finished at {finish_time}") 
     batch_interval = int(config_d["BatchInterval"])
     time.sleep(batch_interval)
