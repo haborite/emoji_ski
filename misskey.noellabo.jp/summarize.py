@@ -18,13 +18,13 @@ with open(f"{server_name}.csv", "r") as f:
     lines = f.read().splitlines()
 emojis = [line.split(",") for line in lines]
 
-with open(f"current_time", "r") as f:
+with open(f"start_time", "r") as f:
     lines = f.read().splitlines()
 ts_start = int(int(lines[0]) / 1000)
 dt_start = datetime.fromtimestamp(ts_start)
 dt_start_str = dt_start.strftime("%m/%d/%Y %H:%M:%S")
 
-with open(f"start_time", "r") as f:
+with open(f"current_time", "r") as f:
     lines = f.read().splitlines()
 ts_end = int(int(lines[0]) / 1000)
 dt_end = datetime.fromtimestamp(ts_end)
@@ -42,7 +42,7 @@ table_str = table_str.replace("600 sec", "100 sec")
 table_str += "|rank|image|signifier|type|frequency score|\n"
 table_str += "|----|----|----|----|----|\n"
 
-rank_no = min(len(emojis), 200)
+rank_no = min(len(emojis), 100)
 for i in range(rank_no):
     emoji = emojis[i]
     signifier = emoji[0]

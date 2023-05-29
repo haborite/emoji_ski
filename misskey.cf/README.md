@@ -16,7 +16,7 @@ Emoji usage ranking in fediverse servers
 |2|🎉|🎉|unicode|1471|
 |3|<img height="24" src="https://misskey.cf/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|1246|
 |4|👍|👍|unicode|674|
-|5|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|448|
+|5|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|449|
 |6|😇|😇|unicode|370|
 |7|😮|😮|unicode|316|
 |8|😆|😆|unicode|315|
@@ -65,8 +65,8 @@ Emoji usage ranking in fediverse servers
 |51|⭕|⭕|unicode|58|
 |52|<img height="24" src="https://misskey.cf/emoji/murisezu.webp">|:murisezu:|custom|56|
 |53|<img height="24" src="https://misskey.cf/emoji/mettya_wakaru.webp">|:mettya_wakaru:|custom|55|
-|54|<img height="24" src="https://misskey.cf/emoji/blob3c.webp">|:blob3c:|custom|54|
-|55|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo@misskey.io:|custom|54|
+|54|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo@misskey.io:|custom|55|
+|55|<img height="24" src="https://misskey.cf/emoji/blob3c.webp">|:blob3c:|custom|54|
 |56|<img height="24" src="https://misskey.cf/emoji/ablobhyperwubbel.webp">|:ablobhyperwubbel:|custom|53|
 |57|<img height="24" src="https://misskey.cf/emoji/totemokawaii.webp">|:totemokawaii:|custom|52|
 |58|<img height="24" src="https://misskey.cf/emoji/ablobcathyper.webp">|:ablobcathyper:|custom|49|

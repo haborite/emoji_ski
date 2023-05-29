@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 import requests, time, configparser
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Load config
 CONFIG_FNAME = 'server.cfg'
@@ -31,8 +31,8 @@ with open(csvname, "a+") as f:
 
 # Load initial measurement time
 time_fname = "current_time"
-with open(time_fname, "r") as f:
-    epoch_msec = int(f.read().splitlines()[0])
+# with open(time_fname, "r") as f:
+#     epoch_msec = int(f.read().splitlines()[0])
 
 # Prepare note id storages
 previous_note_ids = []
@@ -43,6 +43,13 @@ while True:
     # Initialize current note ids
     previous_note_ids = current_note_ids
     current_note_ids = []
+
+    # Set measurement time
+    now = datetime.now()
+    meas_time = now - timedelta(hours=2)
+    meas_time_str = meas_time.strftime("%m/%d/%Y, %H:%M:%S")
+    epoch_msec = int(meas_time.timestamp()) * 1000
+    print(f"Measurement time: " + meas_time_str)
 
     # Request notes in the local timeline
     print(epoch_msec)
@@ -112,15 +119,17 @@ while True:
     with open(csvname, "w") as f:
         for rxn_type, count in reacitons:
             f.write(f"{rxn_type},{count}\n")
-    print("Saved")
 
+    # Set measurement time
+    # epoch_msec = epoch_msec - 3000000
+    with open(time_fname, "w") as f:
+        f.write(str(epoch_msec))
+    # meas_time = datetime.fromtimestamp(epoch_msec / 1000)
+    # print("Measurement time: " + meas_time.strftime("%m/%d/%Y, %H:%M:%S"))
+    
+    finish_time = datetime.now().strftime("%m/%d/%Y, %H:%M:%S")
+    print(f"Batch finished at {finish_time}") 
+    
     # Wait for the next batch
     batch_interval = int(config_d["BatchInterval"])
     time.sleep(batch_interval)
-
-    # Set measurement time
-    epoch_msec = epoch_msec - 3000000
-    with open(time_fname, "w") as f:
-        f.write(str(epoch_msec))
-    meas_time = datetime.fromtimestamp(epoch_msec / 1000)
-    print("Measurement time: " + meas_time.strftime("%m/%d/%Y, %H:%M:%S"))
