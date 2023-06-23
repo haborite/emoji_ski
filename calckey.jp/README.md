@@ -6,23 +6,23 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 606 sec (100 notes at once)
 - Note info reading interval: > 6 sec
-- Period: 2023/05/31 20:11:54 - 2023/06/22 22:07:34 
+- Period: 2023/05/31 20:11:54 - 2023/06/23 22:09:09 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at calckey.jp
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|⭐|⭐|unicode|455|
+|1|⭐|⭐|unicode|464|
 |2|<img height="24" src="https://calckey.jp/emoji/ablobbonepats.webp">|:ablobbonepats:|custom|124|
 |3|<img height="24" src="https://calckey.jp/emoji/ablobbonegoodnight.webp">|:ablobbonegoodnight:|custom|49|
-|4|<img height="24" src="https://calckey.jp/emoji/ablobbonenod.webp">|:ablobbonenod:|custom|39|
-|5|⭕|⭕|unicode|39|
+|4|⭕|⭕|unicode|41|
+|5|<img height="24" src="https://calckey.jp/emoji/ablobbonenod.webp">|:ablobbonenod:|custom|39|
 |6|<img height="24" src="https://calckey.jp/emoji/ablobboneshake.webp">|:ablobboneshake:|custom|36|
 |7|<img height="24" src="https://calckey.jp/emoji/ablobbonenodfast.webp">|:ablobbonenodfast:|custom|36|
 |8|<img height="24" src="https://calckey.jp/emoji/ablobbonelightstick.webp">|:ablobbonelightstick:|custom|25|
-|9|<img height="24" src="https://calckey.jp/emoji/blobbonecry.webp">|:blobbonecry:|custom|21|
-|10|<img height="24" src="https://calckey.jp/emoji/ablobbonecoffin.webp">|:ablobbonecoffin:|custom|20|
+|9|<img height="24" src="https://calckey.jp/emoji/ablobbonecoffin.webp">|:ablobbonecoffin:|custom|22|
+|10|<img height="24" src="https://calckey.jp/emoji/blobbonecry.webp">|:blobbonecry:|custom|21|
 |11|<img height="24" src="https://calckey.jp/emoji/blobboneblewobblehyper.webp">|:blobboneblewobblehyper:|custom|18|
 |12|<img height="24" src="https://calckey.jp/emoji/ablobbonebongoheart.webp">|:ablobbonebongoheart:|custom|18|
 |13|<img height="24" src="https://calckey.jp/emoji/ablobbonetada.webp">|:ablobbonetada:|custom|18|
@@ -32,10 +32,10 @@ Emoji usage ranking in a fediverse server
 |17|<img height="24" src="https://calckey.jp/emoji/blobbonecoffee.webp">|:blobbonecoffee:|custom|13|
 |18|<img height="24" src="https://calckey.jp/emoji/blobbonebook.webp">|:blobbonebook:|custom|12|
 |19|<img height="24" src="https://calckey.jp/emoji/ablobbonetremble.webp">|:ablobbonetremble:|custom|11|
-|20|<img height="24" src="https://calckey.jp/emoji/blobbonecup.webp">|:blobbonecup:|custom|11|
-|21|<img height="24" src="https://calckey.jp/emoji/bunhdcomfysleep.webp">|:bunhdcomfysleep@calc.bal.ovh:|custom|10|
-|22|<img height="24" src="https://calckey.jp/emoji/agoogleturtle.webp">|:agoogleturtle:|custom|9|
-|23|<img height="24" src="https://calckey.jp/emoji/ablobbonebath.webp">|:ablobbonebath:|custom|9|
+|20|<img height="24" src="https://calckey.jp/emoji/ablobbonebath.webp">|:ablobbonebath:|custom|11|
+|21|<img height="24" src="https://calckey.jp/emoji/blobbonecup.webp">|:blobbonecup:|custom|11|
+|22|<img height="24" src="https://calckey.jp/emoji/bunhdcomfysleep.webp">|:bunhdcomfysleep@calc.bal.ovh:|custom|10|
+|23|<img height="24" src="https://calckey.jp/emoji/agoogleturtle.webp">|:agoogleturtle:|custom|9|
 |24|👍|👍|unicode|9|
 |25|🎉|🎉|unicode|8|
 |26|<img height="24" src="https://calckey.jp/emoji/ablobboneattention.webp">|:ablobboneattention:|custom|8|
