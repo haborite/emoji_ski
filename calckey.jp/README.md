@@ -6,30 +6,30 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 606 sec (100 notes at once)
 - Note info reading interval: > 6 sec
-- Period: 2023/05/31 20:11:54 - 2023/06/24 22:08:19 
+- Period: 2023/05/31 20:11:54 - 2023/06/25 22:05:59 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at calckey.jp
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|⭐|⭐|unicode|479|
-|2|<img height="24" src="https://calckey.jp/emoji/ablobbonepats.webp">|:ablobbonepats:|custom|124|
+|1|⭐|⭐|unicode|492|
+|2|<img height="24" src="https://calckey.jp/emoji/ablobbonepats.webp">|:ablobbonepats:|custom|125|
 |3|<img height="24" src="https://calckey.jp/emoji/ablobbonegoodnight.webp">|:ablobbonegoodnight:|custom|49|
-|4|⭕|⭕|unicode|43|
-|5|<img height="24" src="https://calckey.jp/emoji/ablobbonenod.webp">|:ablobbonenod:|custom|41|
-|6|<img height="24" src="https://calckey.jp/emoji/ablobboneshake.webp">|:ablobboneshake:|custom|38|
-|7|<img height="24" src="https://calckey.jp/emoji/ablobbonenodfast.webp">|:ablobbonenodfast:|custom|36|
-|8|<img height="24" src="https://calckey.jp/emoji/ablobbonelightstick.webp">|:ablobbonelightstick:|custom|26|
-|9|<img height="24" src="https://calckey.jp/emoji/ablobbonecoffin.webp">|:ablobbonecoffin:|custom|22|
-|10|<img height="24" src="https://calckey.jp/emoji/blobbonecry.webp">|:blobbonecry:|custom|21|
-|11|<img height="24" src="https://calckey.jp/emoji/ablobbonetada.webp">|:ablobbonetada:|custom|20|
-|12|<img height="24" src="https://calckey.jp/emoji/blobboneblewobblehyper.webp">|:blobboneblewobblehyper:|custom|18|
-|13|<img height="24" src="https://calckey.jp/emoji/ablobbonebongoheart.webp">|:ablobbonebongoheart:|custom|18|
-|14|<img height="24" src="https://calckey.jp/emoji/ablobbonehungry.webp">|:ablobbonehungry:|custom|18|
-|15|<img height="24" src="https://calckey.jp/emoji/blobbonethumbsup.webp">|:blobbonethumbsup:|custom|14|
-|16|<img height="24" src="https://calckey.jp/emoji/nmkjpats.webp">|:nmkjpats:|custom|14|
-|17|<img height="24" src="https://calckey.jp/emoji/blobbonecoffee.webp">|:blobbonecoffee:|custom|13|
+|4|⭕|⭕|unicode|46|
+|5|<img height="24" src="https://calckey.jp/emoji/ablobbonenod.webp">|:ablobbonenod:|custom|43|
+|6|<img height="24" src="https://calckey.jp/emoji/ablobboneshake.webp">|:ablobboneshake:|custom|39|
+|7|<img height="24" src="https://calckey.jp/emoji/ablobbonenodfast.webp">|:ablobbonenodfast:|custom|37|
+|8|<img height="24" src="https://calckey.jp/emoji/ablobbonelightstick.webp">|:ablobbonelightstick:|custom|29|
+|9|<img height="24" src="https://calckey.jp/emoji/blobbonecry.webp">|:blobbonecry:|custom|25|
+|10|<img height="24" src="https://calckey.jp/emoji/ablobbonecoffin.webp">|:ablobbonecoffin:|custom|24|
+|11|<img height="24" src="https://calckey.jp/emoji/blobboneblewobblehyper.webp">|:blobboneblewobblehyper:|custom|20|
+|12|<img height="24" src="https://calckey.jp/emoji/ablobbonetada.webp">|:ablobbonetada:|custom|20|
+|13|<img height="24" src="https://calckey.jp/emoji/ablobbonehungry.webp">|:ablobbonehungry:|custom|19|
+|14|<img height="24" src="https://calckey.jp/emoji/ablobbonebongoheart.webp">|:ablobbonebongoheart:|custom|18|
+|15|<img height="24" src="https://calckey.jp/emoji/nmkjpats.webp">|:nmkjpats:|custom|15|
+|16|<img height="24" src="https://calckey.jp/emoji/blobbonethumbsup.webp">|:blobbonethumbsup:|custom|14|
+|17|<img height="24" src="https://calckey.jp/emoji/blobbonecoffee.webp">|:blobbonecoffee:|custom|14|
 |18|<img height="24" src="https://calckey.jp/emoji/blobbonebook.webp">|:blobbonebook:|custom|12|
 |19|<img height="24" src="https://calckey.jp/emoji/ablobbonetremble.webp">|:ablobbonetremble:|custom|11|
 |20|<img height="24" src="https://calckey.jp/emoji/ablobbonebath.webp">|:ablobbonebath:|custom|11|
@@ -44,39 +44,39 @@ Emoji usage ranking in a fediverse server
 |29|<img height="24" src="https://calckey.jp/emoji/Shiropuyo_heart.webp">|:Shiropuyo_heart:|custom|8|
 |30|<img height="24" src="https://calckey.jp/emoji/blobbonethink.webp">|:blobbonethink:|custom|8|
 |31|<img height="24" src="https://calckey.jp/emoji/ablobbonedance.webp">|:ablobbonedance:|custom|7|
-|32|😮|😮|unicode|6|
-|33|❤|❤|unicode|6|
-|34|<img height="24" src="https://calckey.jp/emoji/blobbonefingerguns.webp">|:blobbonefingerguns:|custom|6|
-|35|<img height="24" src="https://calckey.jp/emoji/ablobboneroll.webp">|:ablobboneroll:|custom|5|
-|36|<img height="24" src="https://calckey.jp/emoji/Shiropuyo_Rainbow.webp">|:Shiropuyo_Rainbow:|custom|5|
-|37|🤝|🤝|unicode|5|
-|38|<img height="24" src="https://calckey.jp/emoji/ablobboneblewobble.webp">|:ablobboneblewobble:|custom|5|
-|39|<img height="24" src="https://calckey.jp/emoji/ablobaww.webp">|:ablobaww:|custom|5|
+|32|<img height="24" src="https://calckey.jp/emoji/ablobaww.webp">|:ablobaww:|custom|7|
+|33|😮|😮|unicode|6|
+|34|❤|❤|unicode|6|
+|35|<img height="24" src="https://calckey.jp/emoji/ablobboneblewobble.webp">|:ablobboneblewobble:|custom|6|
+|36|<img height="24" src="https://calckey.jp/emoji/blobbonefingerguns.webp">|:blobbonefingerguns:|custom|6|
+|37|<img height="24" src="https://calckey.jp/emoji/ablobboneroll.webp">|:ablobboneroll:|custom|5|
+|38|<img height="24" src="https://calckey.jp/emoji/Shiropuyo_Rainbow.webp">|:Shiropuyo_Rainbow:|custom|5|
+|39|🤝|🤝|unicode|5|
 |40|<img height="24" src="https://calckey.jp/emoji/ablobbonereach.webp">|:ablobbonereach:|custom|5|
-|41|<img height="24" src="https://calckey.jp/emoji/ablobcheer.webp">|:ablobcheer:|custom|4|
-|42|<img height="24" src="https://calckey.jp/emoji/ablobbonegoodnight.webp">|:ablobbonegoodnight@cal.vino.blue:|custom|4|
-|43|<img height="24" src="https://calckey.jp/emoji/ameow_nod_fast.webp">|:ameow_nod_fast@ddoskey.com:|custom|4|
-|44|<img height="24" src="https://calckey.jp/emoji/agoogletada.webp">|:agoogletada@brioco.social:|custom|4|
-|45|<img height="24" src="https://calckey.jp/emoji/blobbonecomfyprogress.webp">|:blobbonecomfyprogress:|custom|4|
-|46|😇|😇|unicode|4|
-|47|<img height="24" src="https://calckey.jp/emoji/ablobbouncefast.webp">|:ablobbouncefast:|custom|4|
-|48|<img height="24" src="https://calckey.jp/emoji/blobcry.webp">|:blobcry:|custom|4|
-|49|<img height="24" src="https://calckey.jp/emoji/ablobbonesurprised.webp">|:ablobbonesurprised:|custom|4|
-|50|<img height="24" src="https://calckey.jp/emoji/ablobnodfast.webp">|:ablobnodfast:|custom|4|
-|51|<img height="24" src="https://calckey.jp/emoji/googleduck.webp">|:googleduck:|custom|4|
-|52|<img height="24" src="https://calckey.jp/emoji/blobbonedundundun.webp">|:blobbonedundundun:|custom|4|
-|53|<img height="24" src="https://calckey.jp/emoji/blobhaj_golly.webp">|:blobhaj_golly:|custom|3|
-|54|🦀|🦀|unicode|3|
-|55|<img height="24" src="https://calckey.jp/emoji/agoogle100.webp">|:agoogle100@brioco.social:|custom|3|
-|56|🍔|🍔|unicode|3|
-|57|<img height="24" src="https://calckey.jp/emoji/ablobfoxbongohyper.webp">|:ablobfoxbongohyper:|custom|3|
-|58|<img height="24" src="https://calckey.jp/emoji/googleblueheart.webp">|:googleblueheart:|custom|3|
-|59|<img height="24" src="https://calckey.jp/emoji/blobboneumbrella.webp">|:blobboneumbrella:|custom|3|
-|60|<img height="24" src="https://calckey.jp/emoji/blobthanks.webp">|:blobthanks:|custom|3|
-|61|🍆|🍆|unicode|3|
-|62|<img height="24" src="https://calckey.jp/emoji/ablobattention.webp">|:ablobattention:|custom|3|
-|63|<img height="24" src="https://calckey.jp/emoji/blobboneaww.webp">|:blobboneaww:|custom|3|
-|64|<img height="24" src="https://calckey.jp/emoji/blobcatdroolreach.webp">|:blobcatdroolreach@calc.bal.ovh:|custom|3|
+|41|<img height="24" src="https://calckey.jp/emoji/googleduck.webp">|:googleduck:|custom|5|
+|42|<img height="24" src="https://calckey.jp/emoji/blobboneaww.webp">|:blobboneaww:|custom|4|
+|43|<img height="24" src="https://calckey.jp/emoji/ablobcheer.webp">|:ablobcheer:|custom|4|
+|44|<img height="24" src="https://calckey.jp/emoji/blobcatdroolreach.webp">|:blobcatdroolreach@calc.bal.ovh:|custom|4|
+|45|<img height="24" src="https://calckey.jp/emoji/ablobbonegoodnight.webp">|:ablobbonegoodnight@cal.vino.blue:|custom|4|
+|46|<img height="24" src="https://calckey.jp/emoji/ameow_nod_fast.webp">|:ameow_nod_fast@ddoskey.com:|custom|4|
+|47|<img height="24" src="https://calckey.jp/emoji/agoogletada.webp">|:agoogletada@brioco.social:|custom|4|
+|48|<img height="24" src="https://calckey.jp/emoji/blobbonecomfyprogress.webp">|:blobbonecomfyprogress:|custom|4|
+|49|😇|😇|unicode|4|
+|50|<img height="24" src="https://calckey.jp/emoji/ablobbouncefast.webp">|:ablobbouncefast:|custom|4|
+|51|<img height="24" src="https://calckey.jp/emoji/blobcry.webp">|:blobcry:|custom|4|
+|52|<img height="24" src="https://calckey.jp/emoji/ablobbonesurprised.webp">|:ablobbonesurprised:|custom|4|
+|53|<img height="24" src="https://calckey.jp/emoji/ablobnodfast.webp">|:ablobnodfast:|custom|4|
+|54|<img height="24" src="https://calckey.jp/emoji/blobbonedundundun.webp">|:blobbonedundundun:|custom|4|
+|55|<img height="24" src="https://calckey.jp/emoji/blobhaj_golly.webp">|:blobhaj_golly:|custom|3|
+|56|🦀|🦀|unicode|3|
+|57|<img height="24" src="https://calckey.jp/emoji/agoogle100.webp">|:agoogle100@brioco.social:|custom|3|
+|58|🍔|🍔|unicode|3|
+|59|<img height="24" src="https://calckey.jp/emoji/ablobfoxbongohyper.webp">|:ablobfoxbongohyper:|custom|3|
+|60|<img height="24" src="https://calckey.jp/emoji/googleblueheart.webp">|:googleblueheart:|custom|3|
+|61|<img height="24" src="https://calckey.jp/emoji/blobboneumbrella.webp">|:blobboneumbrella:|custom|3|
+|62|<img height="24" src="https://calckey.jp/emoji/blobthanks.webp">|:blobthanks:|custom|3|
+|63|🍆|🍆|unicode|3|
+|64|<img height="24" src="https://calckey.jp/emoji/ablobattention.webp">|:ablobattention:|custom|3|
 |65|<img height="24" src="https://calckey.jp/emoji/pikablob.webp">|:pikablob:|custom|3|
 |66|<img height="24" src="https://calckey.jp/emoji/blobbonecomfy.webp">|:blobbonecomfy@calc.rettuce.page:|custom|3|
 |67|<img height="24" src="https://calckey.jp/emoji/ablobbonebongoautism.webp">|:ablobbonebongoautism:|custom|3|

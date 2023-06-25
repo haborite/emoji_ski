@@ -6,7 +6,7 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 606 sec (100 notes at once)
 - Note info reading interval: > 6 sec
-- Period: 2023/05/27 00:00:00 - 2023/06/24 22:07:15 
+- Period: 2023/05/27 00:00:00 - 2023/06/24 22:29:59 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at misskey.cf
@@ -27,7 +27,7 @@ Emoji usage ranking in a fediverse server
 |12|🙌|🙌|unicode|2266|
 |13|<img height="24" src="https://misskey.cf/emoji/kawaii.webp">|:kawaii:|custom|2243|
 |14|<img height="24" src="https://misskey.cf/emoji/kusa.webp">|:kusa:|custom|2230|
-|15|🤔|🤔|unicode|2155|
+|15|🤔|🤔|unicode|2156|
 |16|<img height="24" src="https://misskey.cf/emoji/ohayoo.webp">|:ohayoo:|custom|2133|
 |17|<img height="24" src="https://misskey.cf/emoji/sorena_orange.webp">|:sorena_orange:|custom|1767|
 |18|😥|😥|unicode|1661|
