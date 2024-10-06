@@ -6,110 +6,110 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 6060 sec (100 notes at once)
 - Note info reading interval: > 60 sec
-- Period: 2023/01/01 08:00:00 - 2024/10/05 19:18:08 
+- Period: 2023/01/01 08:00:00 - 2024/10/06 21:18:58 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at misskey.noellabo.jp
 
 |rank|image|signifier|type|frequency score|
 |----|----|----|----|----|
-|1|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_igyo.webp">|:noeskeychan_igyo:|custom|57917|
-|2|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_ohayo.webp">|:noeskeychan_ohayo:|custom|45427|
-|3|🎉|🎉|unicode|39450|
-|4|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_oyasumi.webp">|:noeskeychan_oyasumi:|custom|29577|
-|5|<img height="24" src="https://misskey.noellabo.jp/emoji/kawaii.webp">|:kawaii:|custom|22266|
-|6|<img height="24" src="https://misskey.noellabo.jp/emoji/iihanashi.webp">|:iihanashi:|custom|21217|
-|7|<img height="24" src="https://misskey.noellabo.jp/emoji/ne.webp">|:ne:|custom|17953|
-|8|<img height="24" src="https://misskey.noellabo.jp/emoji/yattah.webp">|:yattah:|custom|15588|
+|1|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_igyo.webp">|:noeskeychan_igyo:|custom|57972|
+|2|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_ohayo.webp">|:noeskeychan_ohayo:|custom|45584|
+|3|🎉|🎉|unicode|39521|
+|4|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_oyasumi.webp">|:noeskeychan_oyasumi:|custom|29658|
+|5|<img height="24" src="https://misskey.noellabo.jp/emoji/kawaii.webp">|:kawaii:|custom|22295|
+|6|<img height="24" src="https://misskey.noellabo.jp/emoji/iihanashi.webp">|:iihanashi:|custom|21258|
+|7|<img height="24" src="https://misskey.noellabo.jp/emoji/ne.webp">|:ne:|custom|17960|
+|8|<img height="24" src="https://misskey.noellabo.jp/emoji/yattah.webp">|:yattah:|custom|15599|
 |9|<img height="24" src="https://misskey.noellabo.jp/emoji/kusa.webp">|:kusa:|custom|15239|
-|10|<img height="24" src="https://misskey.noellabo.jp/emoji/uwa_xtu.webp">|:uwa_xtu:|custom|15183|
-|11|<img height="24" src="https://misskey.noellabo.jp/emoji/saikou.webp">|:saikou:|custom|12157|
-|12|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|11701|
-|13|<img height="24" src="https://misskey.noellabo.jp/emoji/saikyou.webp">|:saikyou:|custom|11434|
-|14|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_okaeri.webp">|:noeskeychan_okaeri:|custom|9978|
-|15|<img height="24" src="https://misskey.noellabo.jp/emoji/naruhodo.webp">|:naruhodo:|custom|9291|
+|10|<img height="24" src="https://misskey.noellabo.jp/emoji/uwa_xtu.webp">|:uwa_xtu:|custom|15188|
+|11|<img height="24" src="https://misskey.noellabo.jp/emoji/saikou.webp">|:saikou:|custom|12166|
+|12|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcatfloofpat.webp">|:ablobcatfloofpat:|custom|11704|
+|13|<img height="24" src="https://misskey.noellabo.jp/emoji/saikyou.webp">|:saikyou:|custom|11444|
+|14|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_okaeri.webp">|:noeskeychan_okaeri:|custom|10011|
+|15|<img height="24" src="https://misskey.noellabo.jp/emoji/naruhodo.webp">|:naruhodo:|custom|9294|
 |16|<img height="24" src="https://misskey.noellabo.jp/emoji/very_sad.webp">|:very_sad:|custom|8881|
-|17|<img height="24" src="https://misskey.noellabo.jp/emoji/otsukaresamadseu.webp">|:otsukaresamadseu:|custom|8631|
-|18|<img height="24" src="https://misskey.noellabo.jp/emoji/oishisou.webp">|:oishisou:|custom|8526|
-|19|<img height="24" src="https://misskey.noellabo.jp/emoji/axtsu.webp">|:axtsu:|custom|8023|
-|20|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcataww.webp">|:blobcataww:|custom|7907|
-|21|<img height="24" src="https://misskey.noellabo.jp/emoji/oremoonajikimochi.webp">|:oremoonajikimochi:|custom|7605|
-|22|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_yattah.webp">|:noeskeychan_yattah:|custom|6974|
-|23|<img height="24" src="https://misskey.noellabo.jp/emoji/supertada.webp">|:supertada:|custom|6884|
-|24|<img height="24" src="https://misskey.noellabo.jp/emoji/sugoi.webp">|:sugoi:|custom|6859|
-|25|<img height="24" src="https://misskey.noellabo.jp/emoji/arigatofes.webp">|:arigatofes:|custom|6778|
-|26|<img height="24" src="https://misskey.noellabo.jp/emoji/odaijini.webp">|:odaijini:|custom|6329|
-|27|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcathungry.webp">|:blobcathungry:|custom|6262|
-|28|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcall.webp">|:ablobcall:|custom|6214|
-|29|<img height="24" src="https://misskey.noellabo.jp/emoji/iine.webp">|:iine:|custom|6082|
-|30|<img height="24" src="https://misskey.noellabo.jp/emoji/wakatta.webp">|:wakatta:|custom|6070|
-|31|<img height="24" src="https://misskey.noellabo.jp/emoji/ohanoegozaimasu.webp">|:ohanoegozaimasu:|custom|6031|
-|32|<img height="24" src="https://misskey.noellabo.jp/emoji/sore.webp">|:sore:|custom|5947|
-|33|<img height="24" src="https://misskey.noellabo.jp/emoji/veryx2_sad.webp">|:veryx2_sad:|custom|5944|
-|34|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_pat.webp">|:noeskeychan_pat:|custom|5942|
-|35|<img height="24" src="https://misskey.noellabo.jp/emoji/wakaru.webp">|:wakaru:|custom|5750|
-|36|<img height="24" src="https://misskey.noellabo.jp/emoji/tashikani.webp">|:tashikani:|custom|5708|
-|37|<img height="24" src="https://misskey.noellabo.jp/emoji/blobhai.webp">|:blobhai:|custom|5612|
-|38|<img height="24" src="https://misskey.noellabo.jp/emoji/igyo.webp">|:igyo:|custom|5562|
-|39|<img height="24" src="https://misskey.noellabo.jp/emoji/yattare.webp">|:yattare:|custom|5290|
-|40|<img height="24" src="https://misskey.noellabo.jp/emoji/mog.webp">|:mog:|custom|5219|
-|41|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_tiken_chicken.webp">|:noeskeychan_tiken_chicken:|custom|4982|
-|42|<img height="24" src="https://misskey.noellabo.jp/emoji/erait.webp">|:erait:|custom|4866|
+|17|<img height="24" src="https://misskey.noellabo.jp/emoji/otsukaresamadseu.webp">|:otsukaresamadseu:|custom|8650|
+|18|<img height="24" src="https://misskey.noellabo.jp/emoji/oishisou.webp">|:oishisou:|custom|8559|
+|19|<img height="24" src="https://misskey.noellabo.jp/emoji/axtsu.webp">|:axtsu:|custom|8028|
+|20|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcataww.webp">|:blobcataww:|custom|7921|
+|21|<img height="24" src="https://misskey.noellabo.jp/emoji/oremoonajikimochi.webp">|:oremoonajikimochi:|custom|7606|
+|22|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_yattah.webp">|:noeskeychan_yattah:|custom|6980|
+|23|<img height="24" src="https://misskey.noellabo.jp/emoji/supertada.webp">|:supertada:|custom|6898|
+|24|<img height="24" src="https://misskey.noellabo.jp/emoji/sugoi.webp">|:sugoi:|custom|6887|
+|25|<img height="24" src="https://misskey.noellabo.jp/emoji/arigatofes.webp">|:arigatofes:|custom|6792|
+|26|<img height="24" src="https://misskey.noellabo.jp/emoji/odaijini.webp">|:odaijini:|custom|6336|
+|27|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcathungry.webp">|:blobcathungry:|custom|6289|
+|28|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcall.webp">|:ablobcall:|custom|6221|
+|29|<img height="24" src="https://misskey.noellabo.jp/emoji/iine.webp">|:iine:|custom|6092|
+|30|<img height="24" src="https://misskey.noellabo.jp/emoji/wakatta.webp">|:wakatta:|custom|6073|
+|31|<img height="24" src="https://misskey.noellabo.jp/emoji/ohanoegozaimasu.webp">|:ohanoegozaimasu:|custom|6042|
+|32|<img height="24" src="https://misskey.noellabo.jp/emoji/sore.webp">|:sore:|custom|5951|
+|33|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_pat.webp">|:noeskeychan_pat:|custom|5946|
+|34|<img height="24" src="https://misskey.noellabo.jp/emoji/veryx2_sad.webp">|:veryx2_sad:|custom|5944|
+|35|<img height="24" src="https://misskey.noellabo.jp/emoji/wakaru.webp">|:wakaru:|custom|5755|
+|36|<img height="24" src="https://misskey.noellabo.jp/emoji/tashikani.webp">|:tashikani:|custom|5709|
+|37|<img height="24" src="https://misskey.noellabo.jp/emoji/blobhai.webp">|:blobhai:|custom|5623|
+|38|<img height="24" src="https://misskey.noellabo.jp/emoji/igyo.webp">|:igyo:|custom|5565|
+|39|<img height="24" src="https://misskey.noellabo.jp/emoji/yattare.webp">|:yattare:|custom|5294|
+|40|<img height="24" src="https://misskey.noellabo.jp/emoji/mog.webp">|:mog:|custom|5223|
+|41|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_tiken_chicken.webp">|:noeskeychan_tiken_chicken:|custom|4988|
+|42|<img height="24" src="https://misskey.noellabo.jp/emoji/erait.webp">|:erait:|custom|4873|
 |43|<img height="24" src="https://misskey.noellabo.jp/emoji/sore_of_sore.webp">|:sore_of_sore:|custom|4763|
 |44|<img height="24" src="https://misskey.noellabo.jp/emoji/kowaihanashi.webp">|:kowaihanashi:|custom|3935|
 |45|<img height="24" src="https://misskey.noellabo.jp/emoji/tensai.webp">|:tensai:|custom|3905|
-|46|<img height="24" src="https://misskey.noellabo.jp/emoji/hai.webp">|:hai:|custom|3791|
-|47|<img height="24" src="https://misskey.noellabo.jp/emoji/goanzenni.webp">|:goanzenni:|custom|3706|
-|48|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatbook.webp">|:blobcatbook:|custom|3705|
-|49|❤|❤|unicode|3704|
+|46|<img height="24" src="https://misskey.noellabo.jp/emoji/hai.webp">|:hai:|custom|3793|
+|47|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatbook.webp">|:blobcatbook:|custom|3713|
+|48|❤|❤|unicode|3707|
+|49|<img height="24" src="https://misskey.noellabo.jp/emoji/goanzenni.webp">|:goanzenni:|custom|3706|
 |50|<img height="24" src="https://misskey.noellabo.jp/emoji/aruaru.webp">|:aruaru:|custom|3579|
-|51|<img height="24" src="https://misskey.noellabo.jp/emoji/kakkoii.webp">|:kakkoii:|custom|3546|
-|52|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_ittera.webp">|:noeskeychan_ittera:|custom|3503|
-|53|<img height="24" src="https://misskey.noellabo.jp/emoji/ara_suteki.webp">|:ara_suteki:|custom|3474|
-|54|<img height="24" src="https://misskey.noellabo.jp/emoji/parrot_thumbup.webp">|:parrot_thumbup:|custom|3469|
-|55|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatjustright.webp">|:blobcatjustright:|custom|3427|
+|51|<img height="24" src="https://misskey.noellabo.jp/emoji/kakkoii.webp">|:kakkoii:|custom|3551|
+|52|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_ittera.webp">|:noeskeychan_ittera:|custom|3513|
+|53|<img height="24" src="https://misskey.noellabo.jp/emoji/ara_suteki.webp">|:ara_suteki:|custom|3482|
+|54|<img height="24" src="https://misskey.noellabo.jp/emoji/parrot_thumbup.webp">|:parrot_thumbup:|custom|3471|
+|55|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatjustright.webp">|:blobcatjustright:|custom|3429|
 |56|<img height="24" src="https://misskey.noellabo.jp/emoji/ohayougozaimasu.webp">|:ohayougozaimasu:|custom|3395|
-|57|🍗|🍗|unicode|3307|
-|58|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatchristmasglowsticks.webp">|:blobcatchristmasglowsticks:|custom|3154|
-|59|<img height="24" src="https://misskey.noellabo.jp/emoji/utsukushii.webp">|:utsukushii:|custom|2982|
+|57|🍗|🍗|unicode|3309|
+|58|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatchristmasglowsticks.webp">|:blobcatchristmasglowsticks:|custom|3156|
+|59|<img height="24" src="https://misskey.noellabo.jp/emoji/utsukushii.webp">|:utsukushii:|custom|2986|
 |60|<img height="24" src="https://misskey.noellabo.jp/emoji/souiutokimoaru.webp">|:souiutokimoaru:|custom|2862|
 |61|<img height="24" src="https://misskey.noellabo.jp/emoji/nekochan.webp">|:nekochan:|custom|2846|
-|62|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_kawaii.webp">|:noeskeychan_kawaii:|custom|2807|
+|62|<img height="24" src="https://misskey.noellabo.jp/emoji/noeskeychan_kawaii.webp">|:noeskeychan_kawaii:|custom|2834|
 |63|<img height="24" src="https://misskey.noellabo.jp/emoji/ota.webp">|:ota:|custom|2734|
-|64|<img height="24" src="https://misskey.noellabo.jp/emoji/wakarimi.webp">|:wakarimi:|custom|2732|
+|64|<img height="24" src="https://misskey.noellabo.jp/emoji/wakarimi.webp">|:wakarimi:|custom|2734|
 |65|<img height="24" src="https://misskey.noellabo.jp/emoji/soudasouda.webp">|:soudasouda:|custom|2721|
-|66|<img height="24" src="https://misskey.noellabo.jp/emoji/oltu.webp">|:oltu:|custom|2695|
-|67|<img height="24" src="https://misskey.noellabo.jp/emoji/iihanashi_move.webp">|:iihanashi_move:|custom|2643|
-|68|<img height="24" src="https://misskey.noellabo.jp/emoji/ore.webp">|:ore:|custom|2624|
+|66|<img height="24" src="https://misskey.noellabo.jp/emoji/oltu.webp">|:oltu:|custom|2706|
+|67|<img height="24" src="https://misskey.noellabo.jp/emoji/iihanashi_move.webp">|:iihanashi_move:|custom|2655|
+|68|<img height="24" src="https://misskey.noellabo.jp/emoji/ore.webp">|:ore:|custom|2633|
 |69|<img height="24" src="https://misskey.noellabo.jp/emoji/genbaneko_yoshi.webp">|:genbaneko_yoshi:|custom|2590|
-|70|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcatheadbangfastultra.webp">|:ablobcatheadbangfastultra:|custom|2458|
-|71|<img height="24" src="https://misskey.noellabo.jp/emoji/daisuki.webp">|:daisuki:|custom|2358|
+|70|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcatheadbangfastultra.webp">|:ablobcatheadbangfastultra:|custom|2466|
+|71|<img height="24" src="https://misskey.noellabo.jp/emoji/daisuki.webp">|:daisuki:|custom|2359|
 |72|<img height="24" src="https://misskey.noellabo.jp/emoji/oishii.webp">|:oishii:|custom|2329|
 |73|<img height="24" src="https://misskey.noellabo.jp/emoji/tsuyoi.webp">|:tsuyoi:|custom|2164|
 |74|<img height="24" src="https://misskey.noellabo.jp/emoji/ohuton_kakete_agemasyoune.webp">|:ohuton_kakete_agemasyoune:|custom|2162|
-|75|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatyes.webp">|:blobcatyes:|custom|2127|
+|75|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatyes.webp">|:blobcatyes:|custom|2128|
 |76|👀|👀|unicode|2081|
-|77|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatdrool.webp">|:blobcatdrool:|custom|2065|
-|78|<img height="24" src="https://misskey.noellabo.jp/emoji/t_youkoso.webp">|:t_youkoso:|custom|2045|
-|79|<img height="24" src="https://misskey.noellabo.jp/emoji/wa.webp">|:wa:|custom|2013|
-|80|<img height="24" src="https://misskey.noellabo.jp/emoji/parrot_ohayo.webp">|:parrot_ohayo:|custom|1982|
-|81|<img height="24" src="https://misskey.noellabo.jp/emoji/resonyance.webp">|:resonyance:|custom|1968|
-|82|<img height="24" src="https://misskey.noellabo.jp/emoji/kuttare.webp">|:kuttare:|custom|1967|
-|83|<img height="24" src="https://misskey.noellabo.jp/emoji/konnichiwa.webp">|:konnichiwa:|custom|1917|
-|84|<img height="24" src="https://misskey.noellabo.jp/emoji/ae.webp">|:ae:|custom|1914|
-|85|<img height="24" src="https://misskey.noellabo.jp/emoji/kamo.webp">|:kamo:|custom|1847|
+|77|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcatdrool.webp">|:blobcatdrool:|custom|2072|
+|78|<img height="24" src="https://misskey.noellabo.jp/emoji/t_youkoso.webp">|:t_youkoso:|custom|2047|
+|79|<img height="24" src="https://misskey.noellabo.jp/emoji/wa.webp">|:wa:|custom|2030|
+|80|<img height="24" src="https://misskey.noellabo.jp/emoji/parrot_ohayo.webp">|:parrot_ohayo:|custom|1989|
+|81|<img height="24" src="https://misskey.noellabo.jp/emoji/kuttare.webp">|:kuttare:|custom|1971|
+|82|<img height="24" src="https://misskey.noellabo.jp/emoji/resonyance.webp">|:resonyance:|custom|1971|
+|83|<img height="24" src="https://misskey.noellabo.jp/emoji/konnichiwa.webp">|:konnichiwa:|custom|1919|
+|84|<img height="24" src="https://misskey.noellabo.jp/emoji/ae.webp">|:ae:|custom|1915|
+|85|<img height="24" src="https://misskey.noellabo.jp/emoji/kamo.webp">|:kamo:|custom|1849|
 |86|<img height="24" src="https://misskey.noellabo.jp/emoji/honshitsu_jouhou.webp">|:honshitsu_jouhou:|custom|1817|
-|87|<img height="24" src="https://misskey.noellabo.jp/emoji/eeyan.webp">|:eeyan:|custom|1804|
-|88|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcheer.webp">|:ablobcheer:|custom|1761|
+|87|<img height="24" src="https://misskey.noellabo.jp/emoji/eeyan.webp">|:eeyan:|custom|1807|
+|88|<img height="24" src="https://misskey.noellabo.jp/emoji/ablobcheer.webp">|:ablobcheer:|custom|1764|
 |89|<img height="24" src="https://misskey.noellabo.jp/emoji/ahiru.webp">|:ahiru:|custom|1752|
-|90|<img height="24" src="https://misskey.noellabo.jp/emoji/ameownodfast.webp">|:ameownodfast:|custom|1698|
+|90|<img height="24" src="https://misskey.noellabo.jp/emoji/ameownodfast.webp">|:ameownodfast:|custom|1700|
 |91|<img height="24" src="https://misskey.noellabo.jp/emoji/oishiine.webp">|:oishiine:|custom|1681|
 |92|<img height="24" src="https://misskey.noellabo.jp/emoji/ota_poison.webp">|:ota_poison:|custom|1625|
-|93|<img height="24" src="https://misskey.noellabo.jp/emoji/ii.webp">|:ii:|custom|1602|
-|94|<img height="24" src="https://misskey.noellabo.jp/emoji/wakarimiga_fukasugiru.webp">|:wakarimiga_fukasugiru:|custom|1598|
-|95|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcat_flamethrower.webp">|:blobcat_flamethrower:|custom|1596|
+|93|<img height="24" src="https://misskey.noellabo.jp/emoji/ii.webp">|:ii:|custom|1606|
+|94|<img height="24" src="https://misskey.noellabo.jp/emoji/wakarimiga_fukasugiru.webp">|:wakarimiga_fukasugiru:|custom|1602|
+|95|<img height="24" src="https://misskey.noellabo.jp/emoji/blobcat_flamethrower.webp">|:blobcat_flamethrower:|custom|1600|
 |96|<img height="24" src="https://misskey.noellabo.jp/emoji/blob_turtle.webp">|:blob_turtle:|custom|1595|
 |97|<img height="24" src="https://misskey.noellabo.jp/emoji/okaeri.webp">|:okaeri:|custom|1559|
 |98|<img height="24" src="https://misskey.noellabo.jp/emoji/wakaranai.webp">|:wakaranai:|custom|1552|
 |99|<img height="24" src="https://misskey.noellabo.jp/emoji/aramaki_yoko.webp">|:aramaki_yoko:|custom|1552|
-|100|<img height="24" src="https://misskey.noellabo.jp/emoji/tiken.webp">|:tiken:|custom|1549|
+|100|<img height="24" src="https://misskey.noellabo.jp/emoji/tiken.webp">|:tiken:|custom|1551|
