@@ -6,7 +6,7 @@ Emoji usage ranking in a fediverse server
 - Target timeline: local (LTL)
 - LTL sampling interval: about 6060 sec (100 notes at once)
 - Note info reading interval: > 60 sec
-- Period: 2023/06/01 00:26:43 - 2024/11/14 18:16:57 
+- Period: 2023/06/01 00:26:43 - 2024/11/14 20:58:32 
 - Sampling method: non-exhaustive
 
 # Emoji ranking at trpger.us
@@ -15,27 +15,27 @@ Emoji usage ranking in a fediverse server
 |----|----|----|----|----|
 |1|<img height="24" src="https://trpger.us/emoji/ohayou.webp">|:ohayou:|custom|117197|
 |2|<img height="24" src="https://trpger.us/emoji/ohayoo.webp">|:ohayoo:|custom|75772|
-|3|<img height="24" src="https://trpger.us/emoji/tanoshinde.webp">|:tanoshinde:|custom|36052|
+|3|<img height="24" src="https://trpger.us/emoji/tanoshinde.webp">|:tanoshinde:|custom|36062|
 |4|<img height="24" src="https://trpger.us/emoji/otsukarefes.webp">|:otsukarefes:|custom|33304|
 |5|<img height="24" src="https://trpger.us/emoji/wakaru.webp">|:wakaru:|custom|31621|
-|6|<img height="24" src="https://trpger.us/emoji/fufu.webp">|:fufu:|custom|24069|
+|6|<img height="24" src="https://trpger.us/emoji/fufu.webp">|:fufu:|custom|24075|
 |7|<img height="24" src="https://trpger.us/emoji/oyasumi.webp">|:oyasumi:|custom|22927|
 |8|<img height="24" src="https://trpger.us/emoji/kusa.webp">|:kusa:|custom|18444|
 |9|<img height="24" src="https://trpger.us/emoji/kawaiine.webp">|:kawaiine:|custom|16086|
 |10|<img height="24" src="https://trpger.us/emoji/suteki.webp">|:suteki:|custom|15759|
 |11|<img height="24" src="https://trpger.us/emoji/meow_bongo_pat.webp">|:meow_bongo_pat:|custom|14641|
 |12|<img height="24" src="https://trpger.us/emoji/ohayougozaimasu.webp">|:ohayougozaimasu:|custom|14384|
-|13|<img height="24" src="https://trpger.us/emoji/iine.webp">|:iine:|custom|13160|
+|13|<img height="24" src="https://trpger.us/emoji/iine.webp">|:iine:|custom|13161|
 |14|<img height="24" src="https://trpger.us/emoji/ne.webp">|:ne:|custom|12243|
 |15|<img height="24" src="https://trpger.us/emoji/ablobcat_sleepingtonton.webp">|:ablobcat_sleepingtonton:|custom|10976|
 |16|<img height="24" src="https://trpger.us/emoji/ohutonkakeyou.webp">|:ohutonkakeyou:|custom|9532|
 |17|<img height="24" src="https://trpger.us/emoji/igyo.webp">|:igyo:|custom|9418|
 |18|<img height="24" src="https://trpger.us/emoji/ouen.webp">|:ouen:|custom|8787|
-|19|<img height="24" src="https://trpger.us/emoji/saikou.webp">|:saikou:|custom|8637|
+|19|<img height="24" src="https://trpger.us/emoji/saikou.webp">|:saikou:|custom|8640|
 |20|<img height="24" src="https://trpger.us/emoji/kawaii_anime.webp">|:kawaii_anime:|custom|8245|
 |21|<img height="24" src="https://trpger.us/emoji/oremo.webp">|:oremo:|custom|7492|
 |22|<img height="24" src="https://trpger.us/emoji/musya.webp">|:musya:|custom|6619|
-|23|<img height="24" src="https://trpger.us/emoji/parrot_fast.webp">|:parrot_fast:|custom|6472|
+|23|<img height="24" src="https://trpger.us/emoji/parrot_fast.webp">|:parrot_fast:|custom|6475|
 |24|<img height="24" src="https://trpger.us/emoji/ablobcall.webp">|:ablobcall:|custom|6424|
 |25|<img height="24" src="https://trpger.us/emoji/meow_awauu.webp">|:meow_awauu:|custom|6387|
 |26|<img height="24" src="https://trpger.us/emoji/metyakutyawakaru.webp">|:metyakutyawakaru:|custom|5701|
@@ -43,18 +43,18 @@ Emoji usage ranking in a fediverse server
 |28|<img height="24" src="https://trpger.us/emoji/blobsob.webp">|:blobsob:|custom|5407|
 |29|<img height="24" src="https://trpger.us/emoji/yatta.webp">|:yatta:|custom|5342|
 |30|<img height="24" src="https://trpger.us/emoji/oyasuminasai.webp">|:oyasuminasai:|custom|5215|
-|31|<img height="24" src="https://trpger.us/emoji/uwaaaa.webp">|:uwaaaa:|custom|5100|
-|32|<img height="24" src="https://trpger.us/emoji/uoooo.webp">|:uoooo:|custom|5053|
+|31|<img height="24" src="https://trpger.us/emoji/uwaaaa.webp">|:uwaaaa:|custom|5110|
+|32|<img height="24" src="https://trpger.us/emoji/uoooo.webp">|:uoooo:|custom|5055|
 |33|<img height="24" src="https://trpger.us/emoji/meow_noddies.webp">|:meow_noddies:|custom|5013|
 |34|<img height="24" src="https://trpger.us/emoji/kawaiii.webp">|:kawaiii:|custom|4809|
-|35|<img height="24" src="https://trpger.us/emoji/erai.webp">|:erai:|custom|4801|
+|35|<img height="24" src="https://trpger.us/emoji/erai.webp">|:erai:|custom|4803|
 |36|<img height="24" src="https://trpger.us/emoji/odaijini.webp">|:odaijini:|custom|4682|
 |37|<img height="24" src="https://trpger.us/emoji/maanantekoto.webp">|:maanantekoto:|custom|4625|
 |38|<img height="24" src="https://trpger.us/emoji/okaeri2.webp">|:okaeri2:|custom|4614|
 |39|<img height="24" src="https://trpger.us/emoji/ablobcat_kusudama.webp">|:ablobcat_kusudama:|custom|4589|
 |40|<img height="24" src="https://trpger.us/emoji/yattare.webp">|:yattare:|custom|4578|
 |41|<img height="24" src="https://trpger.us/emoji/meow_floof_pat.webp">|:meow_floof_pat:|custom|4530|
-|42|<img height="24" src="https://trpger.us/emoji/ablobhungry.webp">|:ablobhungry:|custom|4439|
+|42|<img height="24" src="https://trpger.us/emoji/ablobhungry.webp">|:ablobhungry:|custom|4440|
 |43|<img height="24" src="https://trpger.us/emoji/tsuyoi.webp">|:tsuyoi:|custom|4237|
 |44|<img height="24" src="https://trpger.us/emoji/gojiai.webp">|:gojiai:|custom|4182|
 |45|<img height="24" src="https://trpger.us/emoji/ablobcat9mp_hai.webp">|:ablobcat9mp_hai:|custom|4042|
@@ -71,7 +71,7 @@ Emoji usage ranking in a fediverse server
 |56|<img height="24" src="https://trpger.us/emoji/meowhuggies.webp">|:meowhuggies:|custom|3121|
 |57|<img height="24" src="https://trpger.us/emoji/aa_nageki.webp">|:aa_nageki:|custom|3106|
 |58|<img height="24" src="https://trpger.us/emoji/ameowhungry.webp">|:ameowhungry:|custom|3089|
-|59|<img height="24" src="https://trpger.us/emoji/araara.webp">|:araara:|custom|3077|
+|59|<img height="24" src="https://trpger.us/emoji/araara.webp">|:araara:|custom|3082|
 |60|<img height="24" src="https://trpger.us/emoji/okataku.webp">|:okataku:|custom|3006|
 |61|<img height="24" src="https://trpger.us/emoji/blob-nod-fast-gif.webp">|:blob-nod-fast-gif:|custom|2935|
 |62|<img height="24" src="https://trpger.us/emoji/eranchu.webp">|:eranchu:|custom|2836|
@@ -101,7 +101,7 @@ Emoji usage ranking in a fediverse server
 |86|<img height="24" src="https://trpger.us/emoji/meow_laugh.webp">|:meow_laugh:|custom|2353|
 |87|<img height="24" src="https://trpger.us/emoji/ablobcatpnd_dancing2.webp">|:ablobcatpnd_dancing2:|custom|2350|
 |88|<img height="24" src="https://trpger.us/emoji/omedetou.webp">|:omedetou:|custom|2325|
-|89|<img height="24" src="https://trpger.us/emoji/arigatofes.webp">|:arigatofes:|custom|2297|
+|89|<img height="24" src="https://trpger.us/emoji/arigatofes.webp">|:arigatofes:|custom|2298|
 |90|<img height="24" src="https://trpger.us/emoji/kowaihanashi.webp">|:kowaihanashi:|custom|2289|
 |91|<img height="24" src="https://trpger.us/emoji/kyakkya.webp">|:kyakkya:|custom|2240|
 |92|<img height="24" src="https://trpger.us/emoji/a_glowstick_blob.webp">|:a_glowstick_blob:|custom|2206|
